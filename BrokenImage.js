@@ -1,0 +1,1 @@
+In React Native, using the Image component with a source URI that's not properly formatted or accessible can lead to silent failures. The image simply won't render, and you won't get any error messages in the console.  This can be especially tricky to debug because there's no obvious indication of what's gone wrong.

@@ -1,0 +1,1 @@
+This repository demonstrates a common but elusive bug in React Native: silent image rendering failures.  The `BrokenImage.js` file showcases the problematic code, where an image fails to load without any console errors. The `FixedImage.js` file provides a solution, showing how to handle potential errors and display a fallback image or message.
